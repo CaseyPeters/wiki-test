@@ -15,7 +15,12 @@ Welcome to Campspot's documentation!
 Indices and tables
 ==================
 
-* :ref:`genindex`
-* :ref:`modindex`
-* :ref:`search`
 * :ref:`documents`
+
+.._documents:
+
+.. toctree::
+    :maxdepth: 1
+    :caption: Documents:
+
+    test
