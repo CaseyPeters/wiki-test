@@ -57,9 +57,9 @@ source_suffix = ['.rst', '.md']
 master_doc = 'index'
 
 # General information about the project.
-project = u'Media Lounge Coding Standards'
-copyright = u'2016, Media Lounge'
-author = u'Media Lounge'
+project = u'Campspot'
+copyright = u'2017, Campspot'
+author = u'Campspot Development Team'
 
 # The version info for the project you're documenting, acts as replacement for
 # |version| and |release|, also used in various other places throughout the
@@ -142,7 +142,7 @@ html_theme = 'default'
 # The name for this set of Sphinx documents.
 # "<project> v<release> documentation" by default.
 #
-# html_title = u'Media Lounge Coding Standards v0.0.1'
+# html_title = u'Campspot v.1.0.0'
 
 # A shorter title for the navigation bar.  Default is the same as html_title.
 #
