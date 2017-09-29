@@ -1,6 +1,6 @@
 .. title:: Campspot Wiki
 
-Media Lounge Coding Standards
+Campspot Wiki
 =============================
 
 Welcome to the Campspot Wiki
@@ -9,5 +9,6 @@ Welcome to the Campspot Wiki
    :maxdepth: 2
    :caption: Development Workflow
 
-    operations/index
+    home
     development/index
+    operations/index
