@@ -1,13 +1,12 @@
 .. title:: Campspot Wiki
 
-Campspot Wiki
+Development
 =============================
 
-Welcome to the Campspot Wiki
+Documentation for development stuff.
 
 .. toctree::
    :maxdepth: 2
    :caption: Development Workflow
 
-   development/index
-   operations/index
+   home
