@@ -8,19 +8,6 @@ Welcome to Campspot's documentation!
 
 .. toctree::
    :maxdepth: 2
-   :caption: Contents:
+   :caption: Campspot Wiki
 
-
-
-Indices and tables
-==================
-
-* :ref:`documents`
-
-.._documents:
-
-.. toctree::
-    :maxdepth: 1
-    :caption: Documents:
-
-    test
+   test
