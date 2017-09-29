@@ -1,7 +1,7 @@
 # Campspot Wiki Readme
 
 ## Tools for editing this wiki
-1. Visual Studio Code
+1. IntelliJ Plugin
     * reStructuredText plugin
     * built in Markdown Preview
 2. Git
