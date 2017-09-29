@@ -9,6 +9,6 @@ Welcome to the Campspot Wiki
    :maxdepth: 2
    :caption: Development Workflow
 
-    home
-    development/index
-    operations/index
+   home
+   development/index
+   operations/index

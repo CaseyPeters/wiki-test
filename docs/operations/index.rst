@@ -9,4 +9,4 @@ Documentation for anything about operations.
    :maxdepth: 2
    :caption: DevOps
 
-    refresh-environments
+   refresh-environments
