@@ -9,8 +9,5 @@ Welcome to the Campspot Wiki
    :maxdepth: 2
    :caption: Development Workflow
 
-   assets
-   development/index
-   review
-   deployment
-   campspot
+    operations/index
+    development/index
