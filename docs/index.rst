@@ -10,5 +10,3 @@ Welcome to the Campspot Wiki
    :caption: Development Workflow
 
    home
-   development/index
-   operations/index
